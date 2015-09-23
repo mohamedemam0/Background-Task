@@ -1,0 +1,36 @@
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\App.g.i.cs
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\App.g.cs
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\MainPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\MainPage.g.cs
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\App.xaml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\MainPage.xaml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\Background Task.xr.xml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\Background Task.exe
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\Background Task.pdb
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\resources.pri
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\AppxManifest.xml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\Background Task.build.appxrecipe
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\Background Task.exe
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\Background Task.pdb
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\priconfig.xml
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\priconfig.xml.intermediate
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\layout.resfiles
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\layout.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\resources.resfiles
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\resources.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\pri.resfiles
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\pri.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\qualifiers.txt
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\ProjectArchitectures.txt
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\MyBackgroundTask.winmd
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\MyBackgroundTask.pdb
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\bin\Debug\MyBackgroundTask.pri
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\obj\Debug\Background Task.csprojResolveAssemblyReference.cache

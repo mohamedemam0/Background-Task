@@ -1,0 +1,2 @@
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\Background Task\Background Task.csproj;neutral
+c:\users\mohammed\documents\visual studio 2015\Projects\Background Task\MyBackgroundTask\MyBackgroundTask.csproj;neutral
